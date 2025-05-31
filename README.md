@@ -5,7 +5,9 @@ This is a simple REST API built using Node.js and Express that allows users to p
 Tools & Technologies
 
 -Node.js - Runtime for JavaScript on the server
+
 -Express.js - Lightweight web framework for API handling
+
 -Postman - API testing tool
 
 Features
@@ -23,15 +25,23 @@ Features
 Installation & Setup
 
 -Initialize the project with npm init
+
 -Run the following command inside the project folder: npm init -y
+
 -Install Node.js Dependencies 
+
 -Run the following command inside the project folder: npm install express
+
 -Run the Server Start the API by running: node index.js
 
 Test API Using Postman
 
 -Future Improvements
+
 -Implement unique IDs instead of using indexes.
+
 -Add persistent database storage (MongoDB, MySQL).
+
 -Include pagination & filtering.
+
 -Build a frontend UI for book management.
