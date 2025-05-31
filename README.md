@@ -3,6 +3,7 @@ Overview
 This is a simple REST API built using Node.js and Express that allows users to perform CRUD (Create, Read, Update, Delete) operations on books. The data is stored in-memory, meaning no external database is required.
 
 Tools & Technologies
+
 -Node.js - Runtime for JavaScript on the server
 -Express.js - Lightweight web framework for API handling
 -Postman - API testing tool
@@ -10,9 +11,13 @@ Tools & Technologies
 Features
 
 -Retrieve all books (GET /books)
+
 -Retrieve a single book by index (GET /books/:index)
+
 -Add a new book (POST /books)
+
 -Update an existing book (PUT /books/:index)
+
 -Delete a book (DELETE /books/:index)
 
 Installation & Setup
